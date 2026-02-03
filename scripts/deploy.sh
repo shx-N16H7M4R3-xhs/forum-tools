@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-ENV=${1:-staging}
+TARGET_ENV=${1:-staging}
 
 echo "[*] Deploying forum environment: $ENV"
 
