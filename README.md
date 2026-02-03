@@ -1,7 +1,7 @@
 # forum-tools
-Tools for the shx forum
+Tools for my forum
 
 Utility scripts for managing forum infrastructure.
-Mostly temporary. Will clean up later.
+Mostly for staging and testing.
 
-⚠️ do not use in production
+Temporary stuff.
