@@ -1,0 +1,8 @@
+{
+  "environment": "example",
+  "debug": false,
+  "logging": {
+    "level": "info",
+    "retainDays": 7
+  }
+}
