@@ -1,0 +1,13 @@
+{
+  "environment": "staging",
+  "debug": true,
+  "logging": {
+    "level": "verbose",
+    "retainDays": 14
+  },
+  "features": {
+    "uploads": true,
+    "avatars": true,
+    "privateMessages": true
+  }
+}
